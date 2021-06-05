@@ -1,0 +1,71 @@
+body{
+    background-image: url(images/download.png);
+}
+.head{
+    font-family: monospace;
+    color: white;
+    font-size: 80px;
+    margin-top: 0%;
+}
+section{
+    background-color: black;
+    width: 60%;
+    height: 100%;
+    padding: auto;
+    margin: auto;
+    margin-top: 5%;
+    border: 5px lightskyblue;
+    border-style: groove;
+    border-radius: 5px ;
+    
+} 
+input {
+    position: relative;
+    padding: 5px;
+    margin: 25px;
+    margin-top: 5px;
+    border-radius:0px;
+    width:60% ;
+    border-style: groove;
+    border-radius: 5px ;
+}
+.addbtn{
+    background: blue;
+	display:inline-block;
+	color:white;
+	font-family:monospace;
+	font-size:18px;
+    padding: 5px;
+    margin: 5px;
+    width: 19%;
+    border-style: groove;
+    border-radius: 5px ;
+}
+.delbtnall{
+    background: red;
+	display:inline-block;
+	font-family: monospace;
+	font-size:18px;
+    color: white;
+    padding: 5px;
+    width: 18%;
+    border-style: groove;
+    border-radius: 5px ;
+}
+.fa-pencil-square-o{
+    font-size: 42px !important;
+    margin: 4px;
+    color:white;
+}
+.fa-trash{
+    font-size: 42px !important;
+    margin: 4px;
+    color: white;
+}
+li{
+    font-size: 42px;
+    font-family: monospace;
+    color: white;
+    list-style:'Times New Roman', Times, serif;
+}
+
